@@ -1,4 +1,4 @@
- [![MasterHead](http:https://developer.ibm.com/generative-ai-for-developers/)
+ [](http:https://developer.ibm.com/generative-ai-for-developers/)
 <h1 align="center">Hi 👋, I'm Emre Yiğit ÜNLÜ</h1>
 <h3 align="center">A passionate Full Stack Web Developer developer from Türkiye</h3>
 
