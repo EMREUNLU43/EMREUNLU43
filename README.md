@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emre Yiğit ÜNLÜ</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **C#**
 
 - 👨‍💻 All of my projects are available at [https://velvety-tarsier-113f71.netlify.app/](https://velvety-tarsier-113f71.netlify.app/)
 
-- 💬 Ask me about **Aı,python,js,node.js**
+- 💬 Ask me about **python,js,c#**
 
 - 📫 How to reach me **emreyigitunlu43@gmail.com**
 
